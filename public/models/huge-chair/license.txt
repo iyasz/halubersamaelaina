@@ -1,0 +1,11 @@
+Model Information:
+* title:	High-poly Modern Wood Chair
+* source:	https://sketchfab.com/3d-models/high-poly-modern-wood-chair-0ad70af21c984719a6120003792ef056
+* author:	Ivo (https://sketchfab.com/brainfree)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "High-poly Modern Wood Chair" (https://sketchfab.com/3d-models/high-poly-modern-wood-chair-0ad70af21c984719a6120003792ef056) by Ivo (https://sketchfab.com/brainfree) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
